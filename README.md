@@ -23,9 +23,12 @@
 ### 🧑‍🤝‍🧑 맴버구성
 - 백엔드 (김호진, 이동영)
 - 프론트엔드 (남연재, 유재원, 전유정)
-   
-### ⚙️ 개발 환경
-   <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
+
+     
+## 📣 기술 스택
+### Development
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+
 
 ## 📌 주요 기능
 - 초기화면 <br/>
